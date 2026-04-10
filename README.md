@@ -4,14 +4,6 @@ Análisis de ventas de una tienda de comercio electrónico de tecnología utiliz
 
 Análisis de ventas de una tienda de comercio electrónico de tecnología utilizando una base de datos relacional creada desde cero en PostgreSQL, con resultados visualizados en Google Sheets.
 
-
----
-
-## 🛠️ Herramientas Usadas
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-
 ---
 
 ## 🗄️Estructura de la base de datos
