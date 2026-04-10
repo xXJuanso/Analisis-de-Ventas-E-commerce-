@@ -1,4 +1,4 @@
-# Practica de Analisis-de-Ventas-E-commerce
+# Práctica de Análisis de Ventas E-commerce
 Análisis de ventas de una tienda de comercio electrónico de tecnología utilizando SQL, Google Sheets y Power BI.
 # 📊Análisis de ventas de tecnología de comercio electrónico
 
@@ -30,9 +30,8 @@ Análisis de ventas de una tienda de comercio electrónico de tecnología utiliz
 
 ## 🔍Preguntas de negocios respondidas
 
-### Query 1 — Master Sales Report
-**"What is the full detail of every sale: customer, country, 
-product, category, price and date?"**
+### Query 1 — informe de ventas completo
+**"¿Cuáles son los detalles completos de cada venta: cliente, país, producto, categoría, precio y fecha?"**
 
 
 ---
