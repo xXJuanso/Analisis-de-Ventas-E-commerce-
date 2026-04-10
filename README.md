@@ -1,4 +1,4 @@
-# 📊Análisis de ventas de tecnología de comercio electrónico
+# 📊Práctica de Análisis de ventas de E-comerce
 
 Análisis de ventas de una tienda de comercio electrónico de tecnología utilizando una base de datos relacional creada desde cero en PostgreSQL, con resultados visualizados en Google Sheets.
 
@@ -18,34 +18,34 @@ Análisis de ventas de una tienda de comercio electrónico de tecnología utiliz
 
 ---
 
-## 🔍Preguntas de negocios respondidas
+## 🔍Preguntas relevantes para el negocio y poner en práctica SQL
 
-### Query 1 — informe de ventas completo
+### Query 1 
 **"¿Cuáles son los detalles completos de cada venta: cliente, país, producto, categoría, precio y fecha?"**
 
 
 ---
 
-### Query 2 — Revenue by Product Category
-**"Which product category generates the most revenue?"**
+### Query 2 
+**"¿Qué categoría de productos genera mayores ingresos?"**
 
 
 ---
 
-### Query 3 — Monthly Sales Trend
-**"How did sales evolve month by month throughout the year?"**
+### Query 3 
+**"¿Cómo evolucionaron las ventas mes a mes a lo largo del año?"**
 
 
 ---
 
-### Query 4 — Top 10 Customers by Total Spend
-**"Who are our most valuable customers?"**
+### Query 4 
+**"¿Quiénes son los 10 clientes más valiosos?"**
 
 
 ---
 
-### Query 5 — Cancellation Rate by Country
-**"Which countries have the highest order cancellation rate?"**
+### Query 5
+**"¿Qué países tienen la tasa de cancelación de pedidos más alta?"**
 
 
 ---
