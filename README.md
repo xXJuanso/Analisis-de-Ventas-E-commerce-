@@ -19,7 +19,7 @@ Análisis de ventas de una tienda de comercio electrónico de tecnología utiliz
 5 related tables built from scratch:
 
 | Tabla | Descripcion | 
-|---|---|---|
+|---|---|
 | `clientes` | Datos de los Clientes  | 
 | `productos` | Catalogo de Productos | 
 | `categorias` | Categoria de Productos | 
