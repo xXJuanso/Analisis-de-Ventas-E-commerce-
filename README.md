@@ -34,39 +34,30 @@ Análisis de ventas de una tienda de comercio electrónico de tecnología utiliz
 **"What is the full detail of every sale: customer, country, 
 product, category, price and date?"**
 
-Demonstrates JOIN across all 5 tables. Exported to Google Sheets 
-as the master dataset.
 
 ---
 
 ### Query 2 — Revenue by Product Category
 **"Which product category generates the most revenue?"**
 
-Uses GROUP BY, SUM and AVG to calculate total revenue and 
-average price per category.
 
 ---
 
 ### Query 3 — Monthly Sales Trend
 **"How did sales evolve month by month throughout the year?"**
 
-Uses EXTRACT and GROUP BY to calculate monthly revenue and 
-order volume over time.
 
 ---
 
 ### Query 4 — Top 10 Customers by Total Spend
 **"Who are our most valuable customers?"**
 
-Ranks customers by total amount spent using ORDER BY and LIMIT.
 
 ---
 
 ### Query 5 — Cancellation Rate by Country
 **"Which countries have the highest order cancellation rate?"**
 
-Uses CASE WHEN to calculate cancellation rate per country, 
-filtered with HAVING to ensure statistical relevance.
 
 ---
 
