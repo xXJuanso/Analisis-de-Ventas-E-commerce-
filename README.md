@@ -1,5 +1,3 @@
-# Práctica de Análisis de Ventas E-commerce
-Análisis de ventas de una tienda de comercio electrónico de tecnología utilizando SQL, Google Sheets y Power BI.
 # 📊Análisis de ventas de tecnología de comercio electrónico
 
 Análisis de ventas de una tienda de comercio electrónico de tecnología utilizando una base de datos relacional creada desde cero en PostgreSQL, con resultados visualizados en Google Sheets.
